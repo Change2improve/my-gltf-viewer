@@ -7,6 +7,10 @@
     "start": "bin/www",
     "heroku-postbuild": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://still-refuge-39962.herokuapp.com"
+  },
   "author": "Ron Gajdos <rgajdos@ptc.com>",
   "license": "MIT",
   "dependencies": {
